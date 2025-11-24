@@ -1,1 +1,1 @@
-print("Wassup Buddy!! vlinux")
+print("Wassup Buddy!! vlinux update 2 auto")
